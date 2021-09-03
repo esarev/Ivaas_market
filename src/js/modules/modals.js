@@ -37,7 +37,7 @@ const modals = () => {
 
   blindModal('.popup_engineer_btn', '.popup_engineer', '.popup_engineer .popup_close');
   blindModal('.phone_link', '.popup', '.popup .popup_close');
-  showModalTime('.popup', 60000);
+  // showModalTime('.popup', 60000);
 };
 
 export default modals;
