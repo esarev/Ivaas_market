@@ -5,7 +5,7 @@ const webpack = require("webpack-stream");
 const browsersync = require("browser-sync");
 
 // const dist = "./dist/";
-const dist = "C:\OpenServer\OSPanel\domains\test";
+const dist = "C:/OpenServer/OSPanel/domains/test";
 
 
 
